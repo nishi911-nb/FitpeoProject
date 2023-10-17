@@ -1,17 +1,7 @@
 import { Box } from "@chakra-ui/react";
-import { Flex, Icon, Text, InputGroup, InputLeftElement, Input, Select, Image, Stack } from "@chakra-ui/react";
+import { Flex, Text, InputGroup, InputLeftElement, Input, Select, Image, Stack } from "@chakra-ui/react";
 import { SearchIcon } from '@chakra-ui/icons'
-import {
-    Table,
-    Thead,
-    Tbody,
-    Tfoot,
-    Tr,
-    Th,
-    Td,
-    TableCaption,
-    TableContainer,
-  } from '@chakra-ui/react'
+import { Table, Thead, Tbody, Tr, Th, Td, TableContainer } from '@chakra-ui/react'
 
 const ProductSell = () => {
     const productData = [

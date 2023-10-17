@@ -2,8 +2,6 @@ import { Flex, Icon, Text, InputGroup, InputLeftElement, Input, Show, IconButton
 import { PiHandWavingFill } from 'react-icons/pi'
 import { SearchIcon, HamburgerIcon } from '@chakra-ui/icons'
 import { Drawer, DrawerOverlay, DrawerContent, DrawerCloseButton } from '@chakra-ui/react'
-import {
-     } from '@chakra-ui/react'
 import SideBar from "./Sidebar";
 
 const Navbar = () => {

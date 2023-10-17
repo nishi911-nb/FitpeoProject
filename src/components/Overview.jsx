@@ -1,5 +1,5 @@
-import { BarChart, Bar, Cell, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer, Rectangle } from 'recharts';
-import { Card, CardHeader, CardBody, CardFooter, Stack, Image, Heading, Text, ButtonGroup, Button, Divider, Grid, GridItem, Flex, Box, Select, CircularProgress, CircularProgressLabel } from '@chakra-ui/react'
+import { BarChart, Bar, XAxis, Tooltip, ResponsiveContainer } from 'recharts';
+import { Text, Grid, GridItem, Flex, Box, Select } from '@chakra-ui/react'
 import NewCustomers from './NewCustomers';
 
 

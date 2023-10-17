@@ -1,7 +1,6 @@
 import { Grid, GridItem, Show } from "@chakra-ui/react"
 import Details from "./components/Details"
 import SideBar from "./components/Sidebar"
-import './App.css'
 import Navbar from "./components/Navbar"
 import Overview from "./components/Overview"
 import ProductSell from "./components/ProductSell"
